@@ -34,4 +34,4 @@ jobs:
         run: encoder --help
 
       - name: Run tests
-        script: pytest
+        run: pytest
